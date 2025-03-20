@@ -1,4 +1,4 @@
-#Flappy Bird Game (Java + GUI)
+<h1>Flappy Bird Game (Java + GUI)</h1>
 
 Introduction
 
